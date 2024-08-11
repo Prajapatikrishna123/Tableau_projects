@@ -9,7 +9,9 @@ Data Source: The project utilizes a dataset containing Airbnb listings, which in
 
 Visualizations:
  > Geographical Analysis: Interactive maps showing the distribution of listings across different cities and neighborhoods.
+
  > Pricing Analysis: Visualizations that reveal pricing trends based on location, property type, and seasonality.
+
  > Review Analysis: Insights into the number of reviews, average ratings, and their correlation with pricing.
  > Occupancy & Availability: Dashboards displaying the occupancy rates and availability patterns over time.
 > Filters & Interactivity: Users can interact with the dashboards using various filters like city, price range, property type, and more to tailor the analysis to their needs.
